@@ -22,7 +22,8 @@ This repository contains an m-file that generates an irregular waveDict file for
 
 Contributions are welcome! If you have any ideas, suggestions, or improvements, please feel free to open an issue or submit a pull request.
 
-## Acknowledgments
+## References
 
+- https://github.com/phicau/olaFlow.git
 - DNV-RP-H103 (Modelling and Analysis of Marine Operations) for providing valuable guidelines on wave modeling.
 - Casas Prat, M. (2008) for the insightful PDF file "Overview of ocean wave statistics."
